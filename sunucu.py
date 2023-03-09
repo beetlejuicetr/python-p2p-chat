@@ -15,7 +15,7 @@ print("""
 
 	""")
 
-hosgeldin_mesaji = "Kırmızı Ok'a hoşgeldiniz...\n Sunucu bağlantınız başarıyla kuruldu!"
+hosgeldin_mesaji = "Sunucuya hoşgeldiniz...\n Sunucu bağlantınız başarıyla kuruldu!"
 
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
