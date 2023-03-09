@@ -4,7 +4,7 @@ sahip = input("Sunucu Ip: ")
 #'100.83.105.219'
 #socket.gethostbyname(socket.gethostname())
 port = 8436
-kullanici_adi = "mid"
+kullanici_adi = "user"
 istemci = socket.socket()
 def sunucuya_baglanma():
 	global kullanici_adi
