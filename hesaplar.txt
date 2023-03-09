@@ -1,3 +1,2 @@
-MID:pas123
-MrMehmet:pas123
-AmIMad:pas123
+deneme:1234
+admin:1234
